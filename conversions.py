@@ -2,9 +2,7 @@ class Convert:
     """A family of conversions
     """
     def cups2Gallons(self, cups):
-        """Convert cups to gallons
-
-        :returns: gallons
+        """Convert cups to gallons I hope some day
         """
         gallons = cups / 16
         return gallons
