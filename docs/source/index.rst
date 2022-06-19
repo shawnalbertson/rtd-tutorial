@@ -25,7 +25,7 @@ Contents
    usage
    api
    about
-
+   counter
 
 Indices and tables
 ==================
