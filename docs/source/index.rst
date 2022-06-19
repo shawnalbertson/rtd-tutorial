@@ -25,6 +25,12 @@ Contents
    usage
    api
 
+About Me
+--------
+
+.. image:: docs/images/rockme.jpeg
+   :width: 50%
+
 Indices and tables
 ==================
 
