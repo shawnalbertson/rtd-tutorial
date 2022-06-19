@@ -7,7 +7,7 @@ class Convert:
         gallons = cups / 16
         return gallons
 
-import numpy as np
+# import numpy as np
 class Add:
     """Tests numpy import requirements
     """
