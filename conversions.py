@@ -13,5 +13,8 @@ class Add:
     """
     def add(self, array):
         """Sums an array
+
+        Args:
+            array: a numpy array
         """
         return np.sum(array)
