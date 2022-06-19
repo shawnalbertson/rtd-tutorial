@@ -28,7 +28,7 @@ Contents
 About Me
 --------
 
-.. image:: docs/images/rockme.jpeg
+.. image:: ../images/rockme.jpeg
    :width: 50%
 
 Indices and tables
